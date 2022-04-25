@@ -1,4 +1,4 @@
-<a href="https://imgc.ezralazuardy.com/">
+<a href="https://pokemon.ezralazuardy.com/">
   <img src="https://therealsujitk-vercel-badge.vercel.app/?app=pokemon.ezralazuardy" alt="Deployment">
 </a>
 <a href="https://github.com/ezralazuardy/pokemon/actions/workflows/codeql-analysis.yml">
