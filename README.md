@@ -17,6 +17,8 @@ Feelin nostalgic, a game that brings you a pokemon-like 8-bit experience on web.
 
 Preview: [https://pokemon.ezralazuardy.com](https://pokemon.ezralazuardy.com)
 
+![image](https://user-images.githubusercontent.com/24422019/165060257-a4b45702-ce42-41ce-93ab-059a0f29a7db.png)
+
 > This app is written in [Typescript](https://www.typescriptlang.org) using [Vue](https://vuejs.org), [Vite](https://vitejs.dev), and [Volar](https://github.com/johnsoncodehk/volar). The project is intended for my Multimedia coursework at [Diponegoro University](https://ft.undip.ac.id/en/site).
 
 ## 🚀 Quick start
